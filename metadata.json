@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 紫冠守护 (Purple Gold Crown)",
+  "description": "An AI-powered premium parenting app that captures precious moments between parents and children using advanced image generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
